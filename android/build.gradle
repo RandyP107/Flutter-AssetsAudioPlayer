@@ -2,7 +2,7 @@ group 'com.github.florent37.assets_audio_player'
 version '1.0-SNAPSHOT'
 
 buildscript {
-    ext.kotlin_version = '2.1.10'
+    ext.kotlin_version = '1.5.20'
     repositories {
         google()
         mavenCentral()
